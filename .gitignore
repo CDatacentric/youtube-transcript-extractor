@@ -16,3 +16,11 @@ models/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Google authentication
+credentials.json
+token.json
+client_secret*.json
+
+# Local application data
+.streamlit/secrets.toml
