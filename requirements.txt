@@ -1,5 +1,7 @@
+
 streamlit
 faster-whisper
+av==18.1.0
 reportlab
 python-dotenv
 google-api-python-client
