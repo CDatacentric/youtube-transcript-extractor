@@ -1,0 +1,7 @@
+streamlit
+faster-whisper
+reportlab
+python-dotenv
+google-api-python-client
+google-auth-oauthlib
+pytest
